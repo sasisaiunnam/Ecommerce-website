@@ -1,0 +1,1412 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": "79.99",
+      "currency": "USD",
+      "stock": "150",
+      "rating": "4.5",
+      "reviews": "342",
+      "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life.",
+      "specifications": {
+        "brand": "AudioTech",
+        "color": "Black",
+        "weight": "250g",
+        "batteryLife": "30 hours",
+        "connectivity": "Bluetooth 5.0"
+      },
+      "images": [
+        "https://i.imgur.com/e58n7fA.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "2",
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "price": "59.99",
+      "currency": "USD",
+      "stock": "45",
+      "rating": "4.6",
+      "reviews": "234",
+      "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons.",
+      "specifications": {
+        "brand": "GamePro",
+        "dpi": "16000",
+        "buttons": "8",
+        "connectivity": "Wired USB",
+        "weight": "95g"
+      },
+      "images": [
+        "https://i.imgur.com/8Qp4921.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "3",
+      "name": "4K Webcam",
+      "category": "Electronics",
+      "price": "129.99",
+      "currency": "USD",
+      "stock": "67",
+      "rating": "4.4",
+      "reviews": "189",
+      "description": "Ultra HD 4K webcam with auto-focus and built-in microphone for professional streaming.",
+      "specifications": {
+        "brand": "StreamMax",
+        "resolution": "4K UHD",
+        "frameRate": "30fps",
+        "connectivity": "USB 3.0",
+        "microphone": "Built-in stereo"
+      },
+      "images": [
+        "https://i.imgur.com/vA170u4.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "4",
+      "name": "Portable SSD 1TB",
+      "category": "Electronics",
+      "price": "149.99",
+      "currency": "USD",
+      "stock": "92",
+      "rating": "4.8",
+      "reviews": "567",
+      "description": "Ultra-fast portable solid state drive with USB-C connection and 1TB storage.",
+      "specifications": {
+        "brand": "DataSpeed",
+        "capacity": "1TB",
+        "readSpeed": "1050 MB/s",
+        "writeSpeed": "1000 MB/s",
+        "connectivity": "USB-C 3.2"
+      },
+      "images": [
+        "https://i.imgur.com/1G60g5C.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "5",
+      "name": "Wireless Keyboard",
+      "category": "Electronics",
+      "price": "89.99",
+      "currency": "USD",
+      "stock": "120",
+      "rating": "4.3",
+      "reviews": "298",
+      "description": "Mechanical wireless keyboard with RGB backlighting and multi-device support.",
+      "specifications": {
+        "brand": "KeyMaster",
+        "switchType": "Mechanical Blue",
+        "connectivity": "Bluetooth 5.0",
+        "batteryLife": "40 hours",
+        "layout": "Full-size"
+      },
+      "images": [
+        "https://i.imgur.com/uR5pU3R.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "6",
+      "name": "Smartphone Gimbal Stabilizer",
+      "category": "Electronics",
+      "price": "99.99",
+      "currency": "USD",
+      "stock": "55",
+      "rating": "4.7",
+      "reviews": "412",
+      "description": "3-axis smartphone gimbal for smooth video recording and professional content creation.",
+      "specifications": {
+        "brand": "SmoothShot",
+        "maxPayload": "300g",
+        "batteryLife": "12 hours",
+        "connectivity": "Bluetooth",
+        "modes": "Pan, Tilt, Roll"
+      },
+      "images": [
+        "https://i.imgur.com/HqM69N6.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "7",
+      "name": "USB-C Hub 7-in-1",
+      "category": "Electronics",
+      "price": "49.99",
+      "currency": "USD",
+      "stock": "200",
+      "rating": "4.5",
+      "reviews": "623",
+      "description": "Multi-port USB-C hub with HDMI, USB 3.0, SD card reader, and power delivery.",
+      "specifications": {
+        "brand": "ConnectAll",
+        "ports": "7 (HDMI, 3xUSB, SD, microSD, PD)",
+        "powerDelivery": "100W",
+        "compatibility": "Mac, PC, iPad",
+        "dataTransfer": "5Gbps"
+      },
+      "images": [
+        "https://i.imgur.com/3N40Xm0.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "8",
+      "name": "Wireless Charging Pad",
+      "category": "Electronics",
+      "price": "34.99",
+      "currency": "USD",
+      "stock": "175",
+      "rating": "4.2",
+      "reviews": "289",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "specifications": {
+        "brand": "ChargeFast",
+        "power": "15W",
+        "compatibility": "Qi-enabled devices",
+        "features": "LED indicator, overcharge protection",
+        "cableLength": "1.2m"
+      },
+      "images": [
+        "https://i.imgur.com/5U4A4z5.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "9",
+      "name": "Action Camera 4K",
+      "category": "Electronics",
+      "price": "249.99",
+      "currency": "USD",
+      "stock": "38",
+      "rating": "4.6",
+      "reviews": "534",
+      "description": "Waterproof action camera with 4K video, image stabilization, and wide-angle lens.",
+      "specifications": {
+        "brand": "AdventurePro",
+        "resolution": "4K 60fps",
+        "waterproof": "10m",
+        "stabilization": "Electronic Image Stabilization",
+        "batteryLife": "90 minutes"
+      },
+      "images": [
+        "https://i.imgur.com/tHqXv2V.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "25"
+    },
+    {
+      "id": "10",
+      "name": "Smart LED Light Bulb",
+      "category": "Electronics",
+      "price": "19.99",
+      "currency": "USD",
+      "stock": "300",
+      "rating": "4.4",
+      "reviews": "712",
+      "description": "WiFi-enabled smart LED bulb with 16 million colors and voice control.",
+      "specifications": {
+        "brand": "BrightHome",
+        "power": "9W (60W equivalent)",
+        "connectivity": "WiFi 2.4GHz",
+        "compatibility": "Alexa, Google Home",
+        "lifespan": "25000 hours"
+      },
+      "images": [
+        "https://i.imgur.com/wVqT87v.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "11",
+      "name": "Organic Cotton T-Shirt",
+      "category": "Clothing",
+      "price": "29.99",
+      "currency": "USD",
+      "stock": "200",
+      "rating": "4.3",
+      "reviews": "156",
+      "description": "Comfortable, breathable organic cotton t-shirt available in multiple colors.",
+      "specifications": {
+        "brand": "EcoWear",
+        "material": "100% Organic Cotton",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White",
+          "Black",
+          "Navy",
+          "Gray"
+        ],
+        "careInstructions": "Machine wash cold"
+      },
+      "images": [
+        "https://i.imgur.com/5V4D4u2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "12",
+      "name": "Slim Fit Denim Jeans",
+      "category": "Clothing",
+      "price": "79.99",
+      "currency": "USD",
+      "stock": "150",
+      "rating": "4.6",
+      "reviews": "489",
+      "description": "Classic slim fit denim jeans with stretch fabric for comfort and style.",
+      "specifications": {
+        "brand": "DenimCo",
+        "material": "98% Cotton, 2% Elastane",
+        "fit": "Slim",
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "colors": [
+          "Dark Blue",
+          "Light Blue",
+          "Black"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/E1G88Y9.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "13",
+      "name": "Hooded Sweatshirt",
+      "category": "Clothing",
+      "price": "49.99",
+      "currency": "USD",
+      "stock": "180",
+      "rating": "4.5",
+      "reviews": "324",
+      "description": "Cozy fleece-lined hoodie perfect for casual wear and outdoor activities.",
+      "specifications": {
+        "brand": "ComfortZone",
+        "material": "80% Cotton, 20% Polyester",
+        "features": "Fleece-lined, Kangaroo pocket",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Gray",
+          "Black",
+          "Navy",
+          "Burgundy"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/t56n4S2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "14",
+      "name": "Button-Down Dress Shirt",
+      "category": "Clothing",
+      "price": "59.99",
+      "currency": "USD",
+      "stock": "95",
+      "rating": "4.4",
+      "reviews": "267",
+      "description": "Professional dress shirt with wrinkle-resistant fabric and modern fit.",
+      "specifications": {
+        "brand": "FormalFit",
+        "material": "65% Cotton, 35% Polyester",
+        "fit": "Modern",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White",
+          "Light Blue",
+          "Pink",
+          "Gray"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/P4E1E9W.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "15",
+      "name": "Athletic Shorts",
+      "category": "Clothing",
+      "price": "34.99",
+      "currency": "USD",
+      "stock": "220",
+      "rating": "4.3",
+      "reviews": "198",
+      "description": "Lightweight performance shorts with moisture-wicking technology.",
+      "specifications": {
+        "brand": "ActiveWear",
+        "material": "100% Polyester",
+        "features": "Moisture-wicking, Zippered pockets",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Black",
+          "Navy",
+          "Gray",
+          "Red"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/G2S90U9.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "16",
+      "name": "Winter Puffer Jacket",
+      "category": "Clothing",
+      "price": "129.99",
+      "currency": "USD",
+      "stock": "75",
+      "rating": "4.7",
+      "reviews": "412",
+      "description": "Insulated puffer jacket with water-resistant outer shell for cold weather.",
+      "specifications": {
+        "brand": "WinterGuard",
+        "material": "Nylon shell, Polyester fill",
+        "insulation": "Synthetic down",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Black",
+          "Navy",
+          "Olive",
+          "Burgundy"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/e5C3f2R.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "17",
+      "name": "Yoga Leggings",
+      "category": "Clothing",
+      "price": "44.99",
+      "currency": "USD",
+      "stock": "165",
+      "rating": "4.6",
+      "reviews": "589",
+      "description": "High-waisted yoga leggings with four-way stretch and compression support.",
+      "specifications": {
+        "brand": "FlexFit",
+        "material": "75% Nylon, 25% Spandex",
+        "features": "High-waisted, Squat-proof, Pockets",
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Black",
+          "Navy",
+          "Gray",
+          "Purple"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/0F4v4z2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "18",
+      "name": "Polo Shirt",
+      "category": "Clothing",
+      "price": "39.99",
+      "currency": "USD",
+      "stock": "140",
+      "rating": "4.4",
+      "reviews": "223",
+      "description": "Classic polo shirt with moisture-wicking fabric and modern fit.",
+      "specifications": {
+        "brand": "SportClassic",
+        "material": "100% Pima Cotton",
+        "fit": "Regular",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White",
+          "Navy",
+          "Red",
+          "Green",
+          "Yellow"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/6U8u1fR.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "19",
+      "name": "Cargo Pants",
+      "category": "Clothing",
+      "price": "69.99",
+      "currency": "USD",
+      "stock": "110",
+      "rating": "4.2",
+    "reviews": "176",
+      "description": "Durable cargo pants with multiple pockets and relaxed fit.",
+      "specifications": {
+        "brand": "UtilityWear",
+        "material": "100% Cotton Canvas",
+        "fit": "Relaxed",
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "colors": [
+          "Khaki",
+          "Olive",
+          "Black",
+          "Gray"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/e5E6f7R.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "20",
+      "name": "Cardigan Sweater",
+      "category": "Clothing",
+      "price": "64.99",
+      "currency": "USD",
+      "stock": "88",
+      "rating": "4.5",
+      "reviews": "298",
+      "description": "Soft knit cardigan sweater perfect for layering in any season.",
+      "specifications": {
+        "brand": "CozyKnits",
+        "material": "60% Cotton, 40% Acrylic",
+        "features": "Button-front, Pockets",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Cream",
+          "Gray",
+          "Navy",
+          "Burgundy"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/wVq2o3P.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "12"
+    },
+    {
+      "id": "21",
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": "89.99",
+      "currency": "USD",
+      "stock": "75",
+      "rating": "4.7",
+      "reviews": "621",
+      "description": "Lightweight running shoes with breathable mesh and responsive cushioning.",
+      "specifications": {
+        "brand": "RunFast",
+        "material": "Mesh and Synthetic",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Black/White",
+          "Blue/Orange",
+          "Gray/Red"
+        ],
+        "weight": "240g"
+      },
+      "images": [
+        "https://i.imgur.com/tHqXv2V.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "25"
+    },
+    {
+      "id": "22",
+      "name": "Leather Dress Shoes",
+      "category": "Footwear",
+      "price": "119.99",
+      "currency": "USD",
+      "stock": "60",
+      "rating": "4.6",
+      "reviews": "387",
+      "description": "Classic oxford dress shoes crafted from genuine leather.",
+      "specifications": {
+        "brand": "FormalStep",
+        "material": "Genuine Leather",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Burgundy"
+        ],
+        "style": "Oxford"
+      },
+      "images": [
+        "https://i.imgur.com/5V8H7R6.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "23",
+      "name": "Canvas Sneakers",
+      "category": "Footwear",
+      "price": "54.99",
+      "currency": "USD",
+      "stock": "145",
+      "rating": "4.4",
+      "reviews": "512",
+      "description": "Classic low-top canvas sneakers for everyday casual wear.",
+      "specifications": {
+        "brand": "StreetStyle",
+        "material": "Canvas",
+        "sizes": [
+          "US 6",
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11"
+        ],
+        "colors": [
+          "White",
+          "Black",
+          "Navy",
+          "Red"
+        ],
+        "style": "Low-top"
+      },
+      "images": [
+        "https://i.imgur.com/HqM69N6.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "24",
+      "name": "Hiking Boots",
+      "category": "Footwear",
+      "price": "139.99",
+      "currency": "USD",
+      "stock": "52",
+      "rating": "4.8",
+      "reviews": "445",
+      "description": "Waterproof hiking boots with ankle support and rugged traction.",
+      "specifications": {
+        "brand": "TrailMaster",
+        "material": "Leather and Synthetic",
+        "waterproof": "true",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Brown",
+          "Black",
+          "Gray"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/E1G88Y9.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "25",
+      "name": "Slip-On Loafers",
+      "category": "Footwear",
+      "price": "69.99",
+      "currency": "USD",
+      "stock": "98",
+      "rating": "4.3",
+      "reviews": "267",
+      "description": "Comfortable slip-on loafers with cushioned insole for all-day wear.",
+      "specifications": {
+        "brand": "ComfortStep",
+        "material": "Suede",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Brown",
+          "Navy",
+          "Gray",
+          "Black"
+        ],
+        "features": "Memory foam insole"
+      },
+      "images": [
+        "https://i.imgur.com/wVqT87v.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "26",
+      "name": "Basketball Shoes",
+      "category": "Footwear",
+      "price": "109.99",
+      "currency": "USD",
+      "stock": "70",
+      "rating": "4.6",
+      "reviews": "534",
+      "description": "High-performance basketball shoes with superior ankle support and grip.",
+      "specifications": {
+        "brand": "CourtKing",
+        "material": "Synthetic and Mesh",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12",
+          "US 13"
+        ],
+        "colors": [
+          "White/Black",
+          "Red/Black",
+          "Blue/White"
+        ],
+        "style": "High-top"
+      },
+      "images": [
+        "https://i.imgur.com/0F4v4z2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "27",
+      "name": "Sandals",
+      "category": "Footwear",
+      "price": "39.99",
+      "currency": "USD",
+      "stock": "180",
+      "rating": "4.2",
+      "reviews": "298",
+      "description": "Comfortable sport sandals with adjustable straps and contoured footbed.",
+      "specifications": {
+        "brand": "SummerWalk",
+        "material": "Synthetic straps, EVA footbed",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Gray",
+          "Navy"
+        ],
+        "waterFriendly": "true"
+      },
+      "images": [
+        "https://i.imgur.com/6U8u1fR.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "28",
+      "name": "Chelsea Boots",
+      "category": "Footwear",
+      "price": "99.99",
+      "currency": "USD",
+      "stock": "65",
+      "rating": "4.5",
+      "reviews": "356",
+      "description": "Stylish Chelsea boots with elastic side panels and leather construction.",
+      "specifications": {
+        "brand": "UrbanStyle",
+        "material": "Genuine Leather",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Tan"
+        ],
+        "style": "Chelsea"
+      },
+      "images": [
+        "https://i.imgur.com/8Qp4921.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "29",
+      "name": "Training Shoes",
+      "category": "Footwear",
+      "price": "79.99",
+      "currency": "USD",
+      "stock": "125",
+      "rating": "4.4",
+      "reviews": "412",
+      "description": "Versatile training shoes for gym workouts and cross-training activities.",
+      "specifications": {
+        "brand": "FitTrain",
+        "material": "Mesh and Synthetic",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Black",
+          "Gray/Orange",
+          "White/Blue"
+        ],
+        "features": "Flexible sole, Breathable"
+      },
+      "images": [
+        "https://i.imgur.com/P4E1E9W.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "30",
+      "name": "Winter Boots",
+      "category": "Footwear",
+      "price": "129.99",
+      "currency": "USD",
+      "stock": "45",
+      "rating": "4.7",
+      "reviews": "289",
+      "description": "Insulated winter boots with waterproof exterior and thermal lining.",
+      "specifications": {
+        "brand": "SnowTrek",
+        "material": "Leather and Nylon",
+        "insulation": "200g Thinsulate",
+        "waterproof": "true",
+        "sizes": [
+          "US 7",
+          "US 8",
+          "US 9",
+          "US 10",
+          "US 11",
+          "US 12"
+        ],
+        "colors": [
+          "Black",
+          "Brown"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/e58n7fA.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "31",
+      "name": "Stainless Steel Water Bottle",
+      "category": "Home & Kitchen",
+      "price": "24.99",
+      "currency": "USD",
+      "stock": "300",
+      "rating": "4.8",
+      "reviews": "892",
+      "description": "Insulated water bottle keeps drinks cold for 24 hours and hot for 12 hours.",
+      "specifications": {
+        "brand": "HydroFlask",
+        "capacity": "750ml",
+        "material": "Stainless Steel",
+        "insulation": "Double-wall vacuum",
+        "colors": [
+          "Blue",
+          "Red",
+          "Green",
+          "Black"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/uR5pU3R.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "32",
+      "name": "LED Desk Lamp",
+      "category": "Home & Kitchen",
+      "price": "44.99",
+      "currency": "USD",
+      "stock": "0",
+      "rating": "4.2",
+      "reviews": "178",
+      "description": "Adjustable LED desk lamp with touch control and multiple brightness levels.",
+      "specifications": {
+        "brand": "BrightLight",
+        "powerSource": "USB/AC Adapter",
+        "colorTemperature": "3000K-6000K",
+        "adjustable": "true",
+        "dimmable": "true"
+      },
+      "images": [
+        "https://i.imgur.com/uC5v7P2.jpeg"
+      ],
+      "inStock": "false",
+      "discount": "0"
+    },
+    {
+      "id": "33",
+      "name": "Non-Stick Cookware Set",
+      "category": "Home & Kitchen",
+      "price": "149.99",
+      "currency": "USD",
+      "stock": "85",
+      "rating": "4.6",
+      "reviews": "534",
+      "description": "10-piece non-stick cookware set with ergonomic handles and tempered glass lids.",
+      "specifications": {
+        "brand": "ChefPro",
+        "pieces": "10",
+        "material": "Aluminum with ceramic coating",
+        "ovenSafe": "350°F",
+        "dishwasherSafe": "true"
+      },
+      "images": [
+        "https://i.imgur.com/6E2h1Y8.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "25"
+    },
+    {
+      "id": "34",
+      "name": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "price": "79.99",
+      "currency": "USD",
+      "stock": "120",
+      "rating": "4.5",
+      "reviews": "678",
+      "description": "Programmable coffee maker with thermal carafe and auto-brew feature.",
+      "specifications": {
+        "brand": "BrewMaster",
+        "capacity": "12 cups",
+        "features": "Programmable, Auto-shutoff",
+        "carafeType": "Thermal stainless steel",
+        "dimensions": "14 x 8 x 12 inches"
+      },
+      "images": [
+        "https://i.imgur.com/v1C2t3H.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "35",
+      "name": "Bamboo Cutting Board Set",
+      "category": "Home & Kitchen",
+      "price": "34.99",
+      "currency": "USD",
+      "stock": "200",
+      "rating": "4.7",
+      "reviews": "423",
+      "description": "Set of 3 bamboo cutting boards in different sizes with juice grooves.",
+      "specifications": {
+        "brand": "EcoKitchen",
+        "material": "100% Bamboo",
+        "pieces": "3",
+        "sizes": [
+          "Small: 9x6",
+          "Medium: 12x8",
+          "Large: 15x11"
+        ],
+        "features": "Juice groove, Antimicrobial"
+      },
+      "images": [
+        "https://i.imgur.com/5E6C7D8.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "36",
+      "name": "Air Purifier",
+      "category": "Home & Kitchen",
+      "price": "199.99",
+      "currency": "USD",
+      "stock": "55",
+      "rating": "4.8",
+      "reviews": "789",
+      "description": "HEPA air purifier removes 99.97% of allergens and pollutants from the air.",
+      "specifications": {
+        "brand": "PureAir",
+        "coverage": "500 sq ft",
+        "filterType": "True HEPA + Carbon",
+        "cadr": "230 CFM",
+        "noiseLevel": "24-50 dB"
+      },
+      "images": [
+        "https://i.imgur.com/v8N1F4B.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "37",
+      "name": "Kitchen Knife Set",
+      "category": "Home & Kitchen",
+      "price": "89.99",
+      "currency": "USD",
+      "stock": "95",
+      "rating": "4.6",
+      "reviews": "512",
+      "description": "Professional 15-piece knife set with wooden block and knife sharpener.",
+      "specifications": {
+        "brand": "SharpEdge",
+        "pieces": "15",
+        "material": "High-carbon stainless steel",
+        "includes": "Chef, Bread, Utility, Paring knives + Block",
+        "dishwasherSafe": "false"
+      },
+      "images": [
+        "https://i.imgur.com/D2E8N6C.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "38",
+      "name": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "price": "39.99",
+      "currency": "USD",
+      "stock": "165",
+      "rating": "4.3",
+      "reviews": "267",
+      "description": "Set of 4 decorative throw pillows with soft velvet covers.",
+      "specifications": {
+        "brand": "CozyHome",
+        "pieces": "4",
+        "size": "18 x 18 inches",
+        "material": "Velvet cover, Polyester fill",
+        "colors": [
+          "Gray",
+          "Navy",
+          "Beige",
+          "Burgundy"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/1C2t3H8.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "39",
+      "name": "Food Storage Container Set",
+      "category": "Home & Kitchen",
+      "price": "29.99",
+      "currency": "USD",
+      "stock": "250",
+      "rating": "4.4",
+      "reviews": "634",
+      "description": "20-piece glass food storage containers with airtight lids.",
+      "specifications": {
+        "brand": "FreshKeep",
+        "pieces": "20",
+        "material": "Borosilicate glass, BPA-free lids",
+        "microwaveSafe": "true",
+        "ovenSafe": "400°F (without lids)",
+        "dishwasherSafe": "true"
+      },
+      "images": [
+        "https://i.imgur.com/P4E2R6F.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "40",
+      "name": "Blender",
+      "category": "Home & Kitchen",
+      "price": "69.99",
+      "currency": "USD",
+      "stock": "110",
+      "rating": "4.5",
+      "reviews": "445",
+      "description": "High-speed blender with 1000W motor and multiple speed settings.",
+      "specifications": {
+        "brand": "BlendMax",
+        "power": "1000W",
+        "capacity": "64 oz",
+        "speeds": "10 + Pulse",
+        "features": "Ice crush, Self-cleaning"
+      },
+      "images": [
+        "https://i.imgur.com/2U3t4H8.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "41",
+      "name": "Yoga Mat",
+      "category": "Sports & Fitness",
+      "price": "39.99",
+      "currency": "USD",
+      "stock": "120",
+      "rating": "4.4",
+      "reviews": "445",
+      "description": "Non-slip yoga mat with extra cushioning for comfort during workouts.",
+      "specifications": {
+        "brand": "YogaLife",
+        "thickness": "6mm",
+        "material": "TPE (Thermoplastic Elastomer)",
+        "size": "183cm x 61cm",
+        "colors": [
+          "Purple",
+          "Blue",
+          "Pink",
+          "Green"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/P4R2f6F.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "42",
+      "name": "Adjustable Dumbbells",
+      "category": "Sports & Fitness",
+      "price": "199.99",
+      "currency": "USD",
+      "stock": "45",
+      "rating": "4.7",
+      "reviews": "578",
+      "description": "Pair of adjustable dumbbells with weight range from 5 to 52.5 lbs each.",
+      "specifications": {
+        "brand": "PowerLift",
+        "weightRange": "5-52.5 lbs per dumbbell",
+        "adjustments": "15 weight settings",
+        "material": "Cast iron with rubber coating",
+        "includes": "Storage tray"
+      },
+      "images": [
+        "https://i.imgur.com/3U2o3P2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "43",
+      "name": "Resistance Bands Set",
+      "category": "Sports & Fitness",
+      "price": "24.99",
+      "currency": "USD",
+      "stock": "200",
+      "rating": "4.5",
+      "reviews": "623",
+      "description": "Set of 5 resistance bands with different resistance levels and carrying bag.",
+      "specifications": {
+        "brand": "FlexBand",
+        "pieces": "5",
+        "resistanceLevels": "X-Light to X-Heavy",
+        "material": "Natural latex",
+        "includes": "Carrying bag, Door anchor, Ankle straps"
+      },
+      "images": [
+        "https://i.imgur.com/G5C6D7E.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "44",
+      "name": "Jump Rope",
+      "category": "Sports & Fitness",
+      "price": "14.99",
+      "currency": "USD",
+      "stock": "300",
+      "rating": "4.3",
+      "reviews": "234",
+      "description": "Speed jump rope with adjustable length and ball bearing system.",
+      "specifications": {
+        "brand": "SpeedSkip",
+        "material": "Steel cable with PVC coating",
+        "handleMaterial": "Aluminum",
+        "adjustable": "true",
+        "features": "Ball bearing system, Anti-slip handles"
+      },
+      "images": [
+        "https://i.imgur.com/7TqW8C2.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "45",
+      "name": "Foam Roller",
+      "category": "Sports & Fitness",
+      "price": "29.99",
+      "currency": "USD",
+      "stock": "150",
+      "rating": "4.6",
+      "reviews": "389",
+      "description": "High-density foam roller for muscle recovery and myofascial release.",
+      "specifications": {
+        "brand": "RecoverPro",
+        "size": "36 x 6 inches",
+        "density": "High-density EVA foam",
+        "texture": "Multi-density",
+        "weightCapacity": "500 lbs"
+      },
+      "images": [
+        "https://i.imgur.com/3N5o8C7.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    },
+    {
+      "id": "46",
+      "name": "Exercise Ball",
+      "category": "Sports & Fitness",
+      "price": "19.99",
+      "currency": "USD",
+      "stock": "175",
+      "rating": "4.4",
+      "reviews": "312",
+      "description": "Anti-burst exercise ball for yoga, pilates, and core strengthening.",
+      "specifications": {
+        "brand": "CoreFit",
+        "sizes": [
+          "55cm",
+          "65cm",
+          "75cm"
+        ],
+        "material": "PVC",
+        "maxWeight": "2000 lbs",
+        "includes": "Air pump"
+      },
+      "images": [
+        "https://i.imgur.com/W2o4T9C.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "5"
+    },
+    {
+      "id": "47",
+      "name": "Kettlebell",
+      "category": "Sports & Fitness",
+      "price": "49.99",
+      "currency": "USD",
+      "stock": "90",
+      "rating": "4.5",
+      "reviews": "467",
+      "description": "Cast iron kettlebell with wide handle for comfortable grip.",
+      "specifications": {
+        "brand": "IronStrength",
+        "weights": [
+          "10 lbs",
+          "15 lbs",
+          "20 lbs",
+          "25 lbs",
+          "30 lbs"
+        ],
+        "material": "Cast iron",
+        "coating": "Powder coated",
+        "features": "Wide handle, Flat base"
+      },
+      "images": [
+        "https://i.imgur.com/2U4n5F6.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "0"
+    },
+    {
+      "id": "48",
+      "name": "Pull-Up Bar",
+      "category": "Sports & Fitness",
+      "price": "34.99",
+      "currency": "USD",
+      "stock": "85",
+      "rating": "4.3",
+      "reviews": "289",
+      "description": "Doorway pull-up bar with multiple grip positions and no-screw installation.",
+      "specifications": {
+        "brand": "UpperBody",
+        "maxWeight": "300 lbs",
+        "gripPositions": "5",
+        "doorwayWidth": "24-36 inches",
+        "features": "Foam grips, Non-slip"
+      },
+      "images": [
+        "https://i.imgur.com/1G60g5C.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "15"
+    },
+    {
+      "id": "49",
+      "name": "Water Bottle with Time Marker",
+      "category": "Sports & Fitness",
+      "price": "16.99",
+      "currency": "USD",
+      "stock": "250",
+      "rating": "4.2",
+      "reviews": "512",
+      "description": "Motivational water bottle with time markers to track daily hydration.",
+      "specifications": {
+        "brand": "HydroTrack",
+        "capacity": "32 oz",
+        "material": "BPA-free Tritan",
+        "features": "Time markers, Leak-proof, Carry strap",
+        "colors": [
+          "Clear",
+          "Pink",
+          "Blue",
+          "Purple"
+        ]
+      },
+      "images": [
+        "https://i.imgur.com/D4E1E9W.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "20"
+    },
+    {
+      "id": "50",
+      "name": "Ab Roller Wheel",
+      "category": "Sports & Fitness",
+      "price": "19.99",
+      "currency": "USD",
+      "stock": "130",
+      "rating": "4.4",
+      "reviews": "356",
+      "description": "Ab roller wheel with knee pad for core strengthening exercises.",
+      "specifications": {
+        "brand": "CoreCrush",
+        "wheelDiameter": "7 inches",
+        "material": "ABS plastic wheel, Foam handles",
+        "maxWeight": "400 lbs",
+        "includes": "Knee pad"
+      },
+      "images": [
+        "https://i.imgur.com/3N4o8C7.jpeg"
+      ],
+      "inStock": "true",
+      "discount": "10"
+    }
+  ]
+}
